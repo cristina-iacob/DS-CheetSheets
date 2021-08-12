@@ -1,1 +1,1 @@
-# DS-CheetSheets
+# Data Science Cheat Sheets
